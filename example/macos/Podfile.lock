@@ -1,0 +1,22 @@
+PODS:
+  - crayola (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+
+DEPENDENCIES:
+  - crayola (from `Flutter/ephemeral/.symlinks/plugins/crayola/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral/.symlinks/flutter/darwin-x64`)
+
+EXTERNAL SOURCES:
+  crayola:
+    :path: Flutter/ephemeral/.symlinks/plugins/crayola/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral/.symlinks/flutter/darwin-x64
+
+SPEC CHECKSUMS:
+  crayola: 24527d1859aa605e6d41c349db1c1a30d127f523
+  FlutterMacOS: 15bea8a44d2fa024068daa0140371c020b4b6ff9
+
+PODFILE CHECKSUM: d8ba9b3e9e93c62c74a660b46c6fcb09f03991a7
+
+COCOAPODS: 1.9.0

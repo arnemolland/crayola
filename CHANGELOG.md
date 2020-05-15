@@ -1,3 +1,13 @@
+## 1.0.0+1
+
+- Add documentation
+- Update description
+
+## 1.0.0
+
+- Bump package version
+- Update readme
+
 ## 0.0.1
 
-* TODO: Describe initial release.
+- Initialize repository

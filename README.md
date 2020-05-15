@@ -1,4 +1,4 @@
-<img src="https://github.com/arnemolland/snack/blob/master/assets/snack.png?raw=true" alt="snack" style="zoom:1%;float: left;" height="72" />
+<img src="https://github.com/arnemolland/crayola/blob/master/assets/crayola.png?raw=true" alt="crayola" style="zoom:1%;float: left;" height="72" />
 
 ![snack](https://github.com/arnemolland/crayola/workflows/Flutter%20CI/badge.svg) ![pub](https://img.shields.io/pub/v/crayola.svg) [![style: pedantic](https://img.shields.io/badge/style-pedantic-9cf)](https://github.com/dart-lang/pedantic) ![license](https://img.shields.io/github/license/arnemolland/crayola.svg)
 

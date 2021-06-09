@@ -12,8 +12,8 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  bool showTitle;
-  bool showTitleBar;
+  late bool showTitle;
+  late bool showTitleBar;
 
   @override
   void initState() {

@@ -19,7 +19,7 @@ void main() {
   });
 
   test('setTitleBarColor', () async {
-    var error;
+    dynamic error;
     try {
       await Crayola.setTitleBarColor(Colors.red);
     } catch (e) {
@@ -29,7 +29,7 @@ void main() {
   });
 
   test('setTitleVisiblity', () async {
-    var error;
+    dynamic error;
     try {
       await Crayola.setTitleVisibility(false);
     } catch (e) {
@@ -39,7 +39,7 @@ void main() {
   });
 
   test('setTitleBarVisiblity', () async {
-    var error;
+    dynamic error;
     try {
       await Crayola.setTitleBarVisibility(false);
     } catch (e) {

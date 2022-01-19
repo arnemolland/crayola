@@ -4,7 +4,7 @@ import 'package:flutter/painting.dart';
 import 'package:flutter/services.dart';
 
 class Crayola {
-  static const MethodChannel _channel = const MethodChannel('crayola');
+  static const MethodChannel _channel = MethodChannel('crayola');
 
   /// Sets the color of the main window title bar.
   /// Blends with platform default overlay if [transparent] is `true`

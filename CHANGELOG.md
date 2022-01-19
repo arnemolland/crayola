@@ -1,3 +1,7 @@
+## 2.1.0
+
+- Raise minimum Flutter SDK to 2.8.0
+
 ## 2.0.0
 
 - Migrate to null-safety

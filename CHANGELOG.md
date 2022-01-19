@@ -1,3 +1,8 @@
+## 2.1.1
+
+- Add types to tests
+- Bump macOS target to 12.0
+
 ## 2.1.0
 
 - Raise minimum Flutter SDK to 2.8.0

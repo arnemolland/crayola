@@ -3,11 +3,14 @@ import 'package:crayola/crayola.dart';
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatefulWidget {
+  const MyApp({Key? key}) : super(key: key);
+
   @override
+  // ignore: library_private_types_in_public_api
   _MyAppState createState() => _MyAppState();
 }
 
@@ -25,7 +28,7 @@ class _MyAppState extends State<MyApp> {
 
   // Platform messages are asynchronous, so we initialize in an async method.
   Future<void> initPlatformState() async {
-    await Crayola.setTitleBarColor(Color.fromARGB(255, 76, 75, 80));
+    await Crayola.setTitleBarColor(const Color.fromARGB(255, 76, 75, 80));
     await Crayola.setTitleVisibility(false);
     if (!mounted) return;
   }
@@ -54,8 +57,8 @@ class _MyAppState extends State<MyApp> {
           children: [
             Container(
               height: 48.0,
-              color: Color.fromARGB(255, 76, 75, 80),
-              child: Row(
+              color: const Color.fromARGB(255, 76, 75, 80),
+              child: const Row(
                 mainAxisSize: MainAxisSize.max,
               ),
             ),

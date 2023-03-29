@@ -1,3 +1,7 @@
+## 2.2.2
+
+- Lowered minimum macOS deployment target to 11.0 from 12.0
+
 ## 2.2.1
 
 - Fixed invalid CI badge

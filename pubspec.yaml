@@ -1,6 +1,6 @@
 name: crayola
 description: A plugin for customizing Flutter desktop app window properties. Currently macOS only.
-version: 2.2.1
+version: 2.2.2
 homepage: https://github.com/arnemolland/crayola
 
 environment:

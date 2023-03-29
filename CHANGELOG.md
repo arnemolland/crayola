@@ -1,3 +1,9 @@
+## 2.2.0
+
+- Added support for Dart 3
+- Updated flutter_lints version
+- Removed and gitignored user-local files
+
 ## 2.1.1
 
 - Add types to tests

@@ -1,3 +1,7 @@
+## 2.2.1
+
+- Fixed invalid CI badge
+
 ## 2.2.0
 
 - Added support for Dart 3

@@ -1,3 +1,7 @@
+## 2.2.3
+
+- Removed all non-macOS platform files
+
 ## 2.2.2
 
 - Lowered minimum macOS deployment target to 11.0 from 12.0
